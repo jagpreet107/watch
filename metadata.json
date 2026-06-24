@@ -1,0 +1,6 @@
+{
+  "name": "Horology Prestige",
+  "description": "An exquisite high-end luxury watch showroom, curated collection gallery, and bespoke private appointment inquiry portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
